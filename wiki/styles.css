@@ -1,0 +1,32 @@
+* {
+	scroll-behavior: smooth;
+}
+header {
+	text-align: center;
+	margin-top: 30px;
+}
+.logo {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top: 16vh;
+}
+.input-group.mb-3 {
+	margin-top: 10vh;
+	width: 370px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+p {
+	width: 70vh;
+	margin-bottom: 50px;
+}
+footer {
+	text-align:left;
+	margin-left: auto;
+	margin-right: auto;
+}
+.title0 {
+	margin-top: 50px;
+}
